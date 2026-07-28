@@ -72,7 +72,7 @@ const form = useForm<FormValues>({
               <FormItem>
                 <FormLabel>Name</FormLabel>
                 <FormControl>
-                  <Input placeholder="John Doe" {...field} />
+                  <Input placeholder="Shri punde" {...field} />
                 </FormControl>
                 <FormMessage />
               </FormItem>
